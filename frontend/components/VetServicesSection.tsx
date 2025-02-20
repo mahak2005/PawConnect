@@ -8,7 +8,7 @@ export function VetServicesSection() {
       <div className="container mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-[#1A1060] mb-4">Professional Vet Services</h2>
-          <p className="text-gray-600">Connect with qualified veterinarians for your pet's health needs</p>
+          <p className="text-gray-600">Connect with qualified veterinarians for your pets health needs</p>
         </div>
         <div className="grid md:grid-cols-3 gap-6">
           {[1, 2, 3].map((vet) => (
